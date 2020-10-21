@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 gem "image_processing", ">= 1.10.3", "< 2"
-gem "shrine", "~> 3.2.1"
+gem "shrine", "~> 3.3.0"
 gem 'active_storage_validations'
 gem 'aws-sdk-s3', require: false
 gem 'aws-sdk-rails'
