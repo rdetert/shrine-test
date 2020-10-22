@@ -1,4 +1,6 @@
-Run `rake db:migrate`
+`bundle install`
+
+`rake db:migrate`
 
 Create a record with any attachment.
 
