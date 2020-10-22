@@ -1,25 +1,5 @@
-# README
+Run `rake db:migrate`
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Create a record with any attachment.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# shrine-test
+`Attacher.validate` block does not get called when creating a new record.
